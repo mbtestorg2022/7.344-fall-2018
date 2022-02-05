@@ -52,18 +52,177 @@ Grading for this course is pass/fail and will depend on student attendance, prep
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the Course | &nbsp; |
-| 2 | An Introduction to Cancer Metabolism: The Warburg Effect | &nbsp; |
-| 3 | Role of Mitochondrial Function in Tumor Cell Growth | &nbsp; |
-| 4 | Amino Acid Metabolism | &nbsp; |
-| 5 | Nucleotide and Lipid Metabolism | Distribute Written Assignment |
-| 6 | Mutations in Isocitrate Dehydrogenase and the Discovery of a Neomorphic Activity | &nbsp; |
-| 7 | 2-hydroxyglutarate: The First Oncometabolite? | &nbsp; |
-| 8 | Field Trip—Visit to Agios | Field Trip |
-| 9 | Oncogenes and Metabolism: How Genetic Changes Alter Cancer Metabolism | Written Assignment Due |
-| 10 | Context Matters! How Tissue Environment Alters Cancer Cell Metabolism | &nbsp; |
-| 11 | Metabolic Interactions of Stroma Cells and Cancer | Finalize Choice of Paper for Oral Presentations |
-| 12 | Impact of Diet on Tumor Metabolism and Progression | &nbsp; |
-| 13 | Oral Presentations and Final Discussion | Oral Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+An Introduction to Cancer Metabolism: The Warburg Effect
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Role of Mitochondrial Function in Tumor Cell Growth
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Amino Acid Metabolism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Nucleotide and Lipid Metabolism
+{{< tdclose >}}
+{{< tdopen >}}
+Distribute Written Assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Mutations in Isocitrate Dehydrogenase and the Discovery of a Neomorphic Activity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+2-hydroxyglutarate: The First Oncometabolite?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip—Visit to Agios
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Oncogenes and Metabolism: How Genetic Changes Alter Cancer Metabolism
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Context Matters! How Tissue Environment Alters Cancer Cell Metabolism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Metabolic Interactions of Stroma Cells and Cancer
+{{< tdclose >}}
+{{< tdopen >}}
+Finalize Choice of Paper for Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Impact of Diet on Tumor Metabolism and Progression
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations and Final Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
