@@ -54,7 +54,7 @@ An Introduction to Cancer Metabolism: The Warburg Effect
 {{< tdopen >}}
 
 
-Cori, C.F., and Cori, G.T. (1925). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The carbohydrate metabolism of tumors. II. Changes in the sugar, lactic acid, and co-combing power of blood passing through a tumor (PDF)](http://www.jbc.org/content/65/2/397.full.pdf)." _Journal of Biological Chemistry_ **65**, 397–405.
+Cori, C.F., and Cori, G.T. (1925). "[The carbohydrate metabolism of tumors. II. Changes in the sugar, lactic acid, and co-combing power of blood passing through a tumor (PDF)](http://www.jbc.org/content/65/2/397.full.pdf)." _Journal of Biological Chemistry_ **65**, 397–405.
 
 Christofk, H. R., Vander Heiden, M. G., Harris, M. H., Ramanathan, A., Gerszten, R. E., Wei, R., Fleming, M. D., Schreiber, S. L., and Cantley, L. C. (2008). "[The M2 splice isoform of pyruvate kinase is important for cancer metabolism and tumour growth](https://www.ncbi.nlm.nih.gov/pubmed/18337823)." _Nature_ **452**, 230–233.
 
